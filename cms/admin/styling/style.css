@@ -1,0 +1,60 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	background:#EEEDED;
+	
+
+}
+
+.navbar-brand *{
+	color: white;
+}
+
+.jumbotron{
+	height: 200px;
+	overflow: hidden;
+}
+.jumbotron #details{
+	position:absolute;
+	color: white;
+}
+.jumbotron #details span {
+	color: #24A7CF;
+}
+.jumbotron img{
+	padding-left:30%;
+	width: 70%;
+	height:200px;
+}
+
+section .widget{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.popular{
+	background: white;
+	padding:20px;
+	border-radius: 10px;
+	border: 1px solid #E3E3E3; 
+}
+
+.popular ul li{
+	list-style: none;
+}
+
+.popular img{
+	width: 100%;
+	margin-top: 8px;
+}
+
+.popular .details{
+	margin-left: -20px;
+}
+
+footer {
+	background: black;
+	color:white;
+	height: 50px;
+	line-height: 50px;
+	letter-spacing: 1px;
+}
